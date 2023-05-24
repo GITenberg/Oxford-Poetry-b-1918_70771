@@ -1,5 +1,8 @@
 _repo: Oxford-Poetry-b-1918_70771
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70771-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Earp, T. W. (Thomas Wade)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45867
     wikipedia: https://en.wikipedia.org/wiki/Dorothy_L._Sayers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70771#Oxford-Poetry-b-1918
 gutenberg_issued: '2023-05-16'
 identifiers:
   gutenberg: '70771'
